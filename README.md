@@ -6,14 +6,14 @@
 
 1. clone my repo.
 2. install all dependencies `npm install`
-3. to start and test the application give the bellow commented in terminal, and follow the input format.
-node app.js '5 5
-1 0 N
-MMRMMLMMR
-3 2 E
-MLLMMRMM
-1 1 E
-MMLMM'
+3. to start and test the application give the bellow commented in terminal, and follow the input format.__
+node app.js '5 5__
+1 0 N__
+MMRMMLMMR__
+3 2 E__
+MLLMMRMM__
+1 1 E__
+MMLMM'__
 
 
 
